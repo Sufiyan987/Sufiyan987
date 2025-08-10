@@ -1,5 +1,21 @@
 # 💫 About Me:
-🔭 I’m currently working on: Building my skills in web development<br>👯 I’m looking to collaborate on: Beginner-friendly web projects or study groups<br>🤝 I’m looking for help with: Understanding HTML & CSS best practices<br>🌱 I’m currently learning: HTML and CSS<br>💬 Ask me about: My journey learning to code — I’m just getting started!<br>⚡ Fun fact: I love how a few lines of code can turn into something beautiful on a website!
+🔭 I’m currently working on:
+I’m focusing on strengthening my skills in web development, starting with HTML and CSS. My goal is to master the fundamentals so I can confidently move on to JavaScript and more advanced topics.
+
+👯 I’m looking to collaborate on:
+Beginner-friendly web projects, creative landing pages, small portfolio websites, or even forming study groups where we can learn and grow together.
+
+🤝 I’m looking for help with:
+Learning and applying HTML & CSS best practices, writing clean and accessible code, and understanding how to make websites both beautiful and functional.
+
+🌱 I’m currently learning:
+HTML and CSS — exploring structure, semantic tags, layouts, responsive design, and styling techniques that bring a website to life.
+
+💬 Ask me about:
+My journey into coding! I’m just starting out, but I’m happy to share my progress, struggles, and small wins along the way.
+
+⚡ Fun fact:
+I love how just a few lines of code can transform into a visually stunning design or an interactive element on a website — it feels like a little bit of magic every time.
 
 
 # 💻 Tech Stack:
