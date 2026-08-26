@@ -1,3 +1,6 @@
+## Sufiyan Memon
+
+
 # 💫 About Me:
 <br>🔭 I’m currently working on:<br>I’m focusing on strengthening my skills in web development, starting with HTML, CSS and JS. My goal is to master the fundamentals so I can confidently move on to TypeScript and more advanced topics.<br><br>👯 I’m looking to collaborate on:<br>Beginner-friendly web projects, creative landing pages, small portfolio websites, or even forming study groups where we can learn and grow together.<br><br>🤝 I’m looking for help with:<br>Learning and applying HTML, CSS & JS best practices, writing clean and accessible code, and understanding how to make websites both beautiful and functional.<br><br>🌱 I’m currently learning:<br>HTML, CSS and JS — exploring structure, semantic tags, layouts, responsive design, and styling techniques that bring a website to life.<br><br>💬 Ask me about:<br>My journey into coding! I’m just starting out, but I’m happy to share my progress, struggles, and small wins along the way.<br><br>⚡ Fun fact:<br>I love how just a few lines of code can transform into a visually stunning design or an interactive element on a website — it feels like a little bit of magic every time.
 
