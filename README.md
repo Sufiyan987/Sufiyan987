@@ -6,7 +6,7 @@
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&duration=3000&pause=800&color=38BDF8&center=true&vCenter=true&multiline=false&random=false&width=650&height=50&lines=👋+Hello+World!+I'm+Sufiyan+Shahid;💻+Frontend+Developer+from+Pakistan+🇵🇰;🎯+Building+Responsive+%26+SEO-Friendly+Websites;⚡+HTML+%7C+CSS+%7C+JavaScript+%7C+Bootstrap;+PHP+%7C+MySQL+%7C+Backend+Skills;🚀+Always+Learning%2C+Always+Growing!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&pause=1000&width=435&lines=%F0%9F%91%8B++Hello+World!+I'm+Sufiyan+Memon;%E2%9A%A1+HTML+%7C+CSS+%7C+JavaScript+%7C+Bootstrap;%F0%9F%9A%80+Always+Learning%2C+Always+Growing!)](https://git.io/typing-svg)
 
 <br/>
 
