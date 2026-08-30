@@ -1,69 +1,125 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=220&section=header&text=Sufiyan%20Memon&fontSize=65&fontColor=ffffff&animation=fadeIn&fontAlignY=38" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=220&section=header&text=Sufiyan%20Shahid&fontSize=65&fontColor=ffffff&animation=fadeIn&fontAlignY=38" />
 
 </div>
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=%F0%9F%91%8B++Hello+World!+I'm+Sufiyan+Memon;%E2%9A%A1+HTML+%7C+CSS+%7C+JS+%7C+Bootstrap;%F0%9F%9A%80+Always+Learning%2C+Always+Growing!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code\&pause=1000\&width=500\&lines=%F0%9F%91%8B+Hello+World!+I'm+Sufiyan+Shahid;%F0%9F%92%BB+HTML+%7C+CSS+%7C+JavaScript+%7C+Bootstrap;%F0%9F%9A%80+Frontend+Developer+%7C+Web+Designer;%F0%9F%8C%B1+Always+Learning%2C+Always+Building!)](https://git.io/typing-svg)
 
 <br/>
 
-[![Profile Views](https://komarev.com/ghpvc/?username=SufiyanShahidDev&label=Profile%20Views&color=0e75b6&style=for-the-badge&logo=eye)](https://github.com/SufiyanShahidDev)&nbsp;
-[![GitHub followers](https://img.shields.io/github/followers/SufiyanShahidDev?label=Followers&style=for-the-badge&color=1DA1F2&logo=github)](https://github.com/SufiyanShahidDev?tab=followers)&nbsp;
-[![GitHub Repos](https://img.shields.io/badge/Repos-70%2B-brightgreen?style=for-the-badge&logo=github)](https://github.com/SufiyanShahidDev?tab=repositories)&nbsp;
-[![Open to Work](https://img.shields.io/badge/Open%20to%20Work-%E2%9C%85-success?style=for-the-badge&logo=handshake&logoColor=white)](mailto:abusufiyanshahid24@gmail.com)
+[![Profile Views](https://komarev.com/ghpvc/?username=SufiyanShahidDev\&label=Profile%20Views\&color=0e75b6\&style=for-the-badge\&logo=eye)](https://github.com/SufiyanShahidDev) 
+[![GitHub followers](https://img.shields.io/github/followers/SufiyanShahidDev?label=Followers\&style=for-the-badge\&color=1DA1F2\&logo=github)](https://github.com/SufiyanShahidDev?tab=followers) 
+[![GitHub Repos](https://img.shields.io/badge/Repos-70%2B-brightgreen?style=for-the-badge\&logo=github)](https://github.com/SufiyanShahidDev?tab=repositories) 
+[![Open to Work](https://img.shields.io/badge/Open%20to%20Work-%E2%9C%85-success?style=for-the-badge\&logo=handshake\&logoColor=white)](mailto:abusufiyanshahid24@gmail.com)
 
 </div>
 
 ---
 
-## 🙋‍♂️ About Me
+## 👨‍💻 About Me
 
 <img align="right" alt="Coding GIF" width="360" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" />
 
+Hi! I'm **Sufiyan Shahid**, a passionate **Frontend Web Developer** who enjoys creating modern, responsive and interactive websites.
 
-- 🔭 Currently building **modern web & app development projects**
-- 🌱 Studying at **Saylani Mass I.T. Training (SMIT)** + **Aptech Learning Pakistan**
-- 🏆 **Cisco Certified Frontend Developer** *(Cisco Networking Academy)*
-- 💡 Focused on **responsive**, **SEO-friendly**, and **high-performance** UIs
-- 💬 Ask me about **HTML · CSS · JavaScript · Bootstrap · DOM Manipulation · PHP · MySQL**
-- 📫 Reach me: **abusufiyanshahid24@gmail.com**
-- ⚡ Fun Fact: Always eager to learn from experienced developers and industry professionals.
+* 💻 Skilled in **HTML5, CSS3, JavaScript & Bootstrap**
+* 🎨 Interested in modern **UI/UX and web design**
+* 📱 Focused on building **responsive websites** for mobile, tablet and desktop
+* ⚡ Love creating interactive web experiences with **JavaScript**
+* 🌱 Continuously learning new web development technologies
+* 🚀 Building personal projects to improve my development skills
+* 🔧 Interested in clean, reusable and user-friendly interfaces
+* 🤝 Open to internships, freelance projects and collaboration
 
 ---
 
-## 🛠️ Tech Stack & Tools
+## 🛠️ Skills & Technologies
 
 <div align="center">
 
-### 🌐 Frontend Technologies
+### 🌐 Frontend Development
 
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![ES6+](https://img.shields.io/badge/ES6+-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge\&logo=html5\&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge\&logo=css3\&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge\&logo=javascript\&logoColor=black)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge\&logo=bootstrap\&logoColor=white)
 
-### 🗄️ Backend & Database
+### 🔧 Development Tools
 
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge\&logo=git\&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=github\&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge\&logo=visual-studio-code\&logoColor=white)
 
-### 🎨 Design & DevTools
+### 🎨 Web Development
 
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)
+![Responsive Design](https://img.shields.io/badge/Responsive_Design-06B6D4?style=for-the-badge\&logo=css3\&logoColor=white)
+![DOM Manipulation](https://img.shields.io/badge/DOM_Manipulation-F7DF1E?style=for-the-badge\&logo=javascript\&logoColor=black)
+![API Integration](https://img.shields.io/badge/API_Integration-4285F4?style=for-the-badge\&logo=google-cloud\&logoColor=white)
 
-### 🔍 SEO & Performance
+</div>
 
-![On-Page SEO](https://img.shields.io/badge/On--Page%20SEO-4285F4?style=for-the-badge&logo=google&logoColor=white)
-![Responsive Design](https://img.shields.io/badge/Responsive%20Design-06B6D4?style=for-the-badge&logo=css3&logoColor=white)
-![Accessibility](https://img.shields.io/badge/Accessibility-0052CC?style=for-the-badge&logo=adp&logoColor=white)
+---
+
+## 💻 What I Can Build
+
+<div align="center">
+
+| 🚀 Project Type               | 📝 Description                                                          |
+| :---------------------------- | :---------------------------------------------------------------------- |
+| 🌐 **Responsive Websites**    | Modern websites that work smoothly on mobile, tablet and desktop        |
+| 🎨 **Landing Pages**          | Attractive and conversion-focused landing pages                         |
+| 🛒 **E-Commerce Websites**    | Product listings, shopping carts, filters and responsive layouts        |
+| ⚡ **JavaScript Applications** | Interactive apps, calculators, games, forms and dynamic interfaces      |
+| 📱 **Bootstrap Websites**     | Fast and responsive websites using Bootstrap components and grid system |
+| 🎯 **UI Implementation**      | Converting designs and ideas into functional websites                   |
+| 🔧 **Website Improvements**   | Fixing layouts, responsiveness and JavaScript functionality             |
+| 🔌 **API-Based Websites**     | Fetching and displaying dynamic data using JavaScript APIs              |
+
+</div>
+
+---
+
+## 🚀 Featured Projects
+
+<div align="center">
+
+### 🛒 E-Commerce Projects
+
+Building modern e-commerce interfaces with:
+
+**HTML + CSS + JavaScript + Bootstrap**
+
+Features include:
+
+* Product cards
+* Product details
+* Search
+* Filters
+* Shopping cart
+* Wishlist
+* Responsive design
+* Interactive UI
+
+### 🎮 JavaScript Projects
+
+Creating interactive browser-based projects using:
+
+* DOM manipulation
+* Events
+* Functions
+* Arrays
+* Objects
+* Local Storage
+* APIs
+
+### 🌐 Responsive Websites
+
+Building websites that adapt to:
+
+📱 Mobile   |   📱 Tablet   |   💻 Desktop
 
 </div>
 
@@ -77,52 +133,61 @@
 
 </div>
 
----
-
-
-## 🏆 Certifications & Education
+<br/>
 
 <div align="center">
 
-| 🏅 Certificate / Program | 🏫 Institution | 📅 Duration | ✅ Status |
-|:------------------------|:--------------|:-----------|:--------|
-| 🥇 **Cisco Certified Frontend Developer** | Cisco Networking Academy | Oct 2025 – Dec 2025 | ✅ Completed |
-| 💻 **Modern Web & App Development** | Saylani Mass I.T. Training (SMIT) | 2025 – Present | 🔄 In Progress |
-| 📘 **Higher Diploma in Software Engineering (HDSE)** | Aptech Learning Pakistan | 2025 – Present | 🔄 In Progress |
-| 📜 **Certificate of Proficiency – Info Systems (CPISM)** | Aptech Learning Pakistan | May 2025 – Dec 2025 | ✅ Completed |
-| 🎓 **Intermediate** | Aptech Learning Pakistan | 2025 – Present | 🔄 In Progress |
-| 📗 **Matriculation** | Metropolitan Academy | 2024 – 2025 | ✅ Completed |
+<img width="48%" src="https://github-readme-stats.vercel.app/api?username=SufiyanShahidDev&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
+
+<img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SufiyanShahidDev&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
 
 </div>
 
 ---
 
-## 💼 Services I Offer
+## 📈 Contribution Activity
 
 <div align="center">
 
-| 🔧 Service | 📋 Details |
-|:-----------|:----------|
-| 🌐 **Responsive Web Development** | Building fully responsive, mobile-first websites from scratch using HTML5, CSS3 & JavaScript |
-| 🎨 **Figma to HTML/CSS Conversion** | Converting Figma designs to pixel-perfect, accessible HTML/CSS with clean semantic markup |
-| ⚡ **JavaScript DOM Manipulation** | Interactive features — form validation, sliders, dynamic rendering, API integration & CRUD |
-| 📱 **Bootstrap-Based Layouts** | Mobile-first grid layouts using Bootstrap 5 components and utility classes |
-| 🔍 **On-Page SEO Setup** | Semantic HTML structure, meta tags, heading hierarchy & performance-focused implementation |
-| 🚀 **GitHub & Netlify Deployment** | Git version control workflows & live deployment on Netlify |
-| 🗄️ **PHP & MySQL Integration** | Basic server-side logic, form handling and database-driven functionality |
-| 🛠️ **Website Fixes & Improvements** | Debugging layout issues, improving design quality & upgrading existing sites |
+[![Sufiyan's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=SufiyanShahidDev\&theme=tokyo-night\&hide_border=true\&area=true\&color=38BDF8\&line=38BDF8\&point=ffffff\&custom_title=Sufiyan%27s%20Contribution%20Activity)](https://github.com/SufiyanShahidDev)
 
 </div>
 
 ---
 
-## 📈 GitHub Contribution Graph
+## 🎯 My Current Focus
 
 <div align="center">
 
-[![Sufiyan's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=SufiyanShahidDev&theme=tokyo-night&hide_border=true&area=true&area_color=38BDF8&color=38BDF8&line=38BDF8&point=ffffff&custom_title=Sufiyan%27s%20Contribution%20Activity)](https://github.com/SufiyanShahidDev)
+```text
+HTML5
+   ↓
+CSS3
+   ↓
+Bootstrap
+   ↓
+JavaScript
+   ↓
+DOM & APIs
+   ↓
+Advanced Frontend Development
+```
 
 </div>
+
+I'm continuously improving my frontend development skills by building real-world projects and experimenting with new ideas.
+
+---
+
+## 📚 Currently Learning
+
+* 🚀 Advanced JavaScript
+* 🌐 Modern Frontend Development
+* ⚡ JavaScript APIs
+* 🎨 Better UI/UX Practices
+* 📱 Responsive Web Design
+* 🔧 Git & GitHub Workflows
+* 💡 Real-World Web Development Projects
 
 ---
 
@@ -133,15 +198,19 @@
 <a href="https://sufiyan-shahid-dev.netlify.app/" target="_blank">
   <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio"/>
 </a>&nbsp;
+
 <a href="https://www.linkedin.com/in/sufiyanshahiddev/" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
 </a>&nbsp;
+
 <a href="https://github.com/SufiyanShahidDev" target="_blank">
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
 </a>&nbsp;
+
 <a href="https://www.instagram.com/sufiyanshahiddev/" target="_blank">
   <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
 </a>&nbsp;
+
 <a href="mailto:abusufiyanshahid24@gmail.com" target="_blank">
   <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
 </a>
@@ -152,25 +221,25 @@
 
 <div align="center">
 
-### 💬 My Motto
+## 💬 My Motto
 
-> *"I don't just write code — I craft experiences, one pixel at a time."*
->
-> — **Sufiyan Shahid** 🚀
+> **"Build. Learn. Improve. Repeat."** 🚀
 
 <br/>
 
-### 🤝 Currently Open to Opportunities
+### 🤝 Open to Opportunities
 
-**💼 Internships &nbsp;|&nbsp; 👨‍💻 Junior Developer Roles &nbsp;|&nbsp; 🌐 Freelance Projects**
-
-📧 **abusufiyanshahid24@gmail.com** &nbsp;|&nbsp; 🌍 **Karachi, Pakistan**
+**💼 Internships   |   👨‍💻 Junior Frontend Roles   |   🌐 Freelance Projects   |   🤝 Collaborations**
 
 <br/>
 
-⭐ *If you found my work helpful, please consider starring my repositories — it truly means a lot!* ⭐
+📧 **[abusufiyanshahid24@gmail.com](mailto:abusufiyanshahid24@gmail.com)**
 
-<br/>
+<br/><br/>
+
+⭐ **If you like my projects, consider starring my repositories!** ⭐
+
+<br/><br/>
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,50:203a43,100:0f2027&height=130&section=footer&text=Thanks%20for%20visiting!%20%F0%9F%91%8B&fontSize=24&fontColor=ffffff&animation=fadeIn&fontAlignY=65" />
 
