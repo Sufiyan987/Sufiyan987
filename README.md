@@ -1,21 +1,177 @@
-# Sufiyan Memon
+<div align="center">
 
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=220&section=header&text=Sufiyan%20Shahid&fontSize=65&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=⚡%20Frontend%20Developer%20%7C%20UI%20Craftsman%20%7C%20Open%20to%20Work%20⚡&descAlignY=62&descSize=17&descColor=a8d8ea" />
 
-# 💫 About Me:
-<br>🔭 I’m currently working on:<br>I’m focusing on strengthening my skills in web development, starting with HTML, CSS and JS. My goal is to master the fundamentals so I can confidently move on to TypeScript and more advanced topics.<br><br>👯 I’m looking to collaborate on:<br>Beginner-friendly web projects, creative landing pages, small portfolio websites, or even forming study groups where we can learn and grow together.<br><br>🤝 I’m looking for help with:<br>Learning and applying HTML, CSS & JS best practices, writing clean and accessible code, and understanding how to make websites both beautiful and functional.<br><br>🌱 I’m currently learning:<br>HTML, CSS and JS — exploring structure, semantic tags, layouts, responsive design, and styling techniques that bring a website to life.<br><br>💬 Ask me about:<br>My journey into coding! I’m just starting out, but I’m happy to share my progress, struggles, and small wins along the way.<br><br>⚡ Fun fact:<br>I love how just a few lines of code can transform into a visually stunning design or an interactive element on a website — it feels like a little bit of magic every time.
+</div>
 
+<div align="center">
 
-## 🌐 Socials:
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/https://www.facebook.com/sufiyan.sohail.481270) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/sufiyansohail/) [![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://pinterest.com/https://www.pinterest.com/sufiyan13112012/) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@https://www.youtube.com/@Code_with_Sufiyan) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:sufiyan13112012@gmail.com) 
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&duration=3000&pause=800&color=38BDF8&center=true&vCenter=true&multiline=false&random=false&width=650&height=50&lines=👋+Hello+World!+I'm+Sufiyan+Shahid;💻+Frontend+Developer+from+Pakistan+🇵🇰;🎯+Building+Responsive+%26+SEO-Friendly+Websites;⚡+HTML+%7C+CSS+%7C+JavaScript+%7C+Bootstrap;+PHP+%7C+MySQL+%7C+Backend+Skills;🚀+Always+Learning%2C+Always+Growing!)](https://git.io/typing-svg)
 
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Bash Script](https://img.shields.io/badge/bash_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white) ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white) ![Perl](https://img.shields.io/badge/perl-%2339457E.svg?style=for-the-badge&logo=perl&logoColor=white) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![AssemblyScript](https://img.shields.io/badge/assembly%20script-%23000000.svg?style=for-the-badge&logo=assemblyscript&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![ReScript](https://img.shields.io/badge/rescript-%2314162c?style=for-the-badge&logo=rescript&logoColor=e34c4c) ![WordPress](https://img.shields.io/badge/WordPress-%23117AC9.svg?style=for-the-badge&logo=WordPress&logoColor=white) ![Adobe](https://img.shields.io/badge/adobe-%23FF0000.svg?style=for-the-badge&logo=adobe&logoColor=white) ![Adobe InDesign](https://img.shields.io/badge/Adobe%20InDesign-49021F?style=for-the-badge&logo=adobeindesign&logoColor=FF3366) ![Adobe Illustrator](https://img.shields.io/badge/adobe%20illustrator-%23FF9A00.svg?style=for-the-badge&logo=adobe%20illustrator&logoColor=white) ![Affinity Designer](https://img.shields.io/badge/affinity%20desginer-%231B72BE.svg?style=for-the-badge&logo=affinity-designer&logoColor=white) ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white) ![Storybook](https://img.shields.io/badge/-Storybook-FF4785?style=for-the-badge&logo=storybook&logoColor=white) ![Sketch Up](https://img.shields.io/badge/SketchUp-005F9E?style=for-the-badge&logo=sketchup&logoColor=white) ![Sketch](https://img.shields.io/badge/Sketch-FFB387?style=for-the-badge&logo=sketch&logoColor=black) ![Affinity Photo](https://img.shields.io/badge/affinityphoto-%237E4DD2.svg?style=for-the-badge&logo=affinity-photo&logoColor=white) ![Dribbble](https://img.shields.io/badge/Dribbble-EA4C89?style=for-the-badge&logo=dribbble&logoColor=white) ![Krita](https://img.shields.io/badge/Krita-203759?style=for-the-badge&logo=krita&logoColor=EEF37B) ![Proto.io](https://img.shields.io/badge/Proto.io-161637?style=for-the-badge&logo=proto.io&logoColor=00e5ff) ![Clip Studio Paint](https://img.shields.io/badge/ClipStudioPaint-%23CFD3D3.svg?style=for-the-badge&logo=ClipStudioPaint&logoColor=white) ![Splunk](https://img.shields.io/badge/splunk-%23000000.svg?style=for-the-badge&logo=splunk&logoColor=white) ![AMD](https://img.shields.io/badge/AMD-%23000000.svg?style=for-the-badge&logo=amd&logoColor=white) ![Mosquitto](https://img.shields.io/badge/mosquitto-%233C5280.svg?style=for-the-badge&logo=eclipsemosquitto&logoColor=white) ![OpenAPI Specification](https://img.shields.io/badge/openapiinitiative-%23000000.svg?style=for-the-badge&logo=openapiinitiative&logoColor=white) ![Epic Games](https://img.shields.io/badge/epicgames-%23313131.svg?style=for-the-badge&logo=epicgames&logoColor=white) ![Terraform](https://img.shields.io/badge/terraform-%235835CC.svg?style=for-the-badge&logo=terraform&logoColor=white) ![Plex](https://img.shields.io/badge/plex-%23E5A00D.svg?style=for-the-badge&logo=plex&logoColor=white) ![Jellyfin](https://img.shields.io/badge/jellyfin-%23000B25.svg?style=for-the-badge&logo=Jellyfin&logoColor=00A4DC) ![SonarLint](https://img.shields.io/badge/SonarLint-CB2029?style=for-the-badge&logo=SONARLINT&logoColor=white) ![Tampermonkey](https://img.shields.io/badge/tampermonkey-%2300485B.svg?style=for-the-badge&logo=tampermonkey&logoColor=white) ![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=Prometheus&logoColor=white) ![Swagger](https://img.shields.io/badge/-Swagger-%23Clojure?style=for-the-badge&logo=swagger&logoColor=white) ![Pi-Hole](https://img.shields.io/badge/pihole-%2396060C.svg?style=for-the-badge&logo=pi-hole&logoColor=white) ![Packer](https://img.shields.io/badge/packer-%23E7EEF0.svg?style=for-the-badge&logo=packer&logoColor=%2302A8EF) ![Gradle](https://img.shields.io/badge/Gradle-02303A.svg?style=for-the-badge&logo=Gradle&logoColor=white) ![CodeCov](https://img.shields.io/badge/codecov-%23ff0077.svg?style=for-the-badge&logo=codecov&logoColor=white) ![Confluence](https://img.shields.io/badge/confluence-%23172BF4.svg?style=for-the-badge&logo=confluence&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Sufiyan987&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=Sufiyan987&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Sufiyan987&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+<br/>
+
+[![Profile Views](https://komarev.com/ghpvc/?username=SufiyanShahidDev&label=Profile%20Views&color=0e75b6&style=for-the-badge&logo=eye)](https://github.com/SufiyanShahidDev)&nbsp;
+[![GitHub followers](https://img.shields.io/github/followers/SufiyanShahidDev?label=Followers&style=for-the-badge&color=1DA1F2&logo=github)](https://github.com/SufiyanShahidDev?tab=followers)&nbsp;
+[![GitHub Repos](https://img.shields.io/badge/Repos-70%2B-brightgreen?style=for-the-badge&logo=github)](https://github.com/SufiyanShahidDev?tab=repositories)&nbsp;
+[![Open to Work](https://img.shields.io/badge/Open%20to%20Work-%E2%9C%85-success?style=for-the-badge&logo=handshake&logoColor=white)](mailto:abusufiyanshahid24@gmail.com)
+
+</div>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=Sufiyan987&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## 🙋‍♂️ About Me
+
+<img align="right" alt="Coding GIF" width="360" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" />
+
+
+- 🔭 Currently building **modern web & app development projects**
+- 🌱 Studying at **Saylani Mass I.T. Training (SMIT)** + **Aptech Learning Pakistan**
+- 🏆 **Cisco Certified Frontend Developer** *(Cisco Networking Academy)*
+- 💡 Focused on **responsive**, **SEO-friendly**, and **high-performance** UIs
+- 💬 Ask me about **HTML · CSS · JavaScript · Bootstrap · DOM Manipulation · PHP · MySQL**
+- 📫 Reach me: **abusufiyanshahid24@gmail.com**
+- ⚡ Fun Fact: Always eager to learn from experienced developers and industry professionals.
+
+---
+
+## 🛠️ Tech Stack & Tools
+
+<div align="center">
+
+### 🌐 Frontend Technologies
+
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![ES6+](https://img.shields.io/badge/ES6+-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
+
+### 🗄️ Backend & Database
+
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+
+### 🎨 Design & DevTools
+
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)
+
+### 🔍 SEO & Performance
+
+![On-Page SEO](https://img.shields.io/badge/On--Page%20SEO-4285F4?style=for-the-badge&logo=google&logoColor=white)
+![Responsive Design](https://img.shields.io/badge/Responsive%20Design-06B6D4?style=for-the-badge&logo=css3&logoColor=white)
+![Accessibility](https://img.shields.io/badge/Accessibility-0052CC?style=for-the-badge&logo=adp&logoColor=white)
+
+</div>
+
+---
+
+## 📊 GitHub Statistics
+
+<div align="center">
+
+<img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=SufiyanShahidDev&theme=tokyonight&hide_border=true&stroke=38BDF8&ring=38BDF8&fire=FF6B6B&currStreakLabel=38BDF8" alt="GitHub Streak" />
+
+</div>
+
+---
+
+
+## 🏆 Certifications & Education
+
+<div align="center">
+
+| 🏅 Certificate / Program | 🏫 Institution | 📅 Duration | ✅ Status |
+|:------------------------|:--------------|:-----------|:--------|
+| 🥇 **Cisco Certified Frontend Developer** | Cisco Networking Academy | Oct 2025 – Dec 2025 | ✅ Completed |
+| 💻 **Modern Web & App Development** | Saylani Mass I.T. Training (SMIT) | 2025 – Present | 🔄 In Progress |
+| 📘 **Higher Diploma in Software Engineering (HDSE)** | Aptech Learning Pakistan | 2025 – Present | 🔄 In Progress |
+| 📜 **Certificate of Proficiency – Info Systems (CPISM)** | Aptech Learning Pakistan | May 2025 – Dec 2025 | ✅ Completed |
+| 🎓 **Intermediate** | Aptech Learning Pakistan | 2025 – Present | 🔄 In Progress |
+| 📗 **Matriculation** | Metropolitan Academy | 2024 – 2025 | ✅ Completed |
+
+</div>
+
+---
+
+## 💼 Services I Offer
+
+<div align="center">
+
+| 🔧 Service | 📋 Details |
+|:-----------|:----------|
+| 🌐 **Responsive Web Development** | Building fully responsive, mobile-first websites from scratch using HTML5, CSS3 & JavaScript |
+| 🎨 **Figma to HTML/CSS Conversion** | Converting Figma designs to pixel-perfect, accessible HTML/CSS with clean semantic markup |
+| ⚡ **JavaScript DOM Manipulation** | Interactive features — form validation, sliders, dynamic rendering, API integration & CRUD |
+| 📱 **Bootstrap-Based Layouts** | Mobile-first grid layouts using Bootstrap 5 components and utility classes |
+| 🔍 **On-Page SEO Setup** | Semantic HTML structure, meta tags, heading hierarchy & performance-focused implementation |
+| 🚀 **GitHub & Netlify Deployment** | Git version control workflows & live deployment on Netlify |
+| 🗄️ **PHP & MySQL Integration** | Basic server-side logic, form handling and database-driven functionality |
+| 🛠️ **Website Fixes & Improvements** | Debugging layout issues, improving design quality & upgrading existing sites |
+
+</div>
+
+---
+
+## 📈 GitHub Contribution Graph
+
+<div align="center">
+
+[![Sufiyan's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=SufiyanShahidDev&theme=tokyo-night&hide_border=true&area=true&area_color=38BDF8&color=38BDF8&line=38BDF8&point=ffffff&custom_title=Sufiyan%27s%20Contribution%20Activity)](https://github.com/SufiyanShahidDev)
+
+</div>
+
+---
+
+## 🌐 Connect With Me
+
+<div align="center">
+
+<a href="https://sufiyan-shahid-dev.netlify.app/" target="_blank">
+  <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio"/>
+</a>&nbsp;
+<a href="https://www.linkedin.com/in/sufiyanshahiddev/" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+</a>&nbsp;
+<a href="https://github.com/SufiyanShahidDev" target="_blank">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+</a>&nbsp;
+<a href="https://www.instagram.com/sufiyanshahiddev/" target="_blank">
+  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
+</a>&nbsp;
+<a href="mailto:abusufiyanshahid24@gmail.com" target="_blank">
+  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
+</a>
+
+</div>
+
+---
+
+<div align="center">
+
+### 💬 My Motto
+
+> *"I don't just write code — I craft experiences, one pixel at a time."*
+>
+> — **Sufiyan Shahid** 🚀
+
+<br/>
+
+### 🤝 Currently Open to Opportunities
+
+**💼 Internships &nbsp;|&nbsp; 👨‍💻 Junior Developer Roles &nbsp;|&nbsp; 🌐 Freelance Projects**
+
+📧 **abusufiyanshahid24@gmail.com** &nbsp;|&nbsp; 🌍 **Karachi, Pakistan**
+
+<br/>
+
+⭐ *If you found my work helpful, please consider starring my repositories — it truly means a lot!* ⭐
+
+<br/>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,50:203a43,100:0f2027&height=130&section=footer&text=Thanks%20for%20visiting!%20%F0%9F%91%8B&fontSize=24&fontColor=ffffff&animation=fadeIn&fontAlignY=65" />
+
+</div>
