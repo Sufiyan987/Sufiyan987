@@ -13,7 +13,7 @@
 [![Profile Views](https://komarev.com/ghpvc/?username=Sufiyan987\&label=Profile%20Views\&color=0e75b6\&style=for-the-badge\&logo=eye)](https://github.com/Sufiyan987) 
 [![GitHub followers](https://img.shields.io/github/followers/Sufiyan987?label=Followers\&style=for-the-badge\&color=1DA1F2\&logo=github)](https://github.com/Sufiyan987?tab=followers) 
 [![GitHub Repos](https://img.shields.io/badge/Repos-70%2B-brightgreen?style=for-the-badge\&logo=github)](https://github.com/Sufiyan987?tab=repositories) 
-[![Open to Work](https://img.shields.io/badge/Open%20to%20Work-%E2%9C%85-success?style=for-the-badge\&logo=handshake\&logoColor=white)](mailto:abusufiyanshahid24@gmail.com)
+[![Open to Work](https://img.shields.io/badge/Open%20to%20Work-%E2%9C%85-success?style=for-the-badge\&logo=handshake\&logoColor=white)](mailto:sufiyan13112012@gmail.com)
 
 </div>
 
@@ -28,7 +28,7 @@
 * 🏆 **Cisco Certified Frontend Developer** *(Cisco Networking Academy)*
 * 💡 Focused on **responsive**, **SEO-friendly**, and **high-performance** UIs
 * 💬 Ask me about **HTML · CSS · JavaScript · Bootstrap · DOM Manipulation · PHP · MySQL**
-* 📫 Reach me: **[abusufiyanshahid24@gmail.com](mailto:abusufiyanshahid24@gmail.com)**
+* 📫 Reach me: **[sufiyan13112012@gmail.com](mailto:sufiyan13112012@gmail.com)**
 * ⚡ Fun Fact: Always eager to learn from experienced developers and industry professionals.
 
 ---
@@ -42,13 +42,12 @@
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge\&logo=html5\&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge\&logo=css3\&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge\&logo=javascript\&logoColor=black)
-![ES6+](https://img.shields.io/badge/ES6+-F7DF1E?style=for-the-badge\&logo=javascript\&logoColor=black)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge\&logo=bootstrap\&logoColor=white)
 
 ### 🗄️ Backend & Database
 
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge\&logo=php\&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge\&logo=mysql\&logoColor=white)
+![JS](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge\&logo=php\&logoColor=white)
+![Node.Js](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge\&logo=mysql\&logoColor=white)
 
 ### 🎨 Design & DevTools
 
@@ -144,7 +143,7 @@
   <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
 </a>&nbsp;
 
-<a href="mailto:abusufiyanshahid24@gmail.com" target="_blank">
+<a href="mailto:sufiyan13112012@gmail.com" target="_blank">
   <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
 </a>
 
@@ -166,7 +165,7 @@
 
 **💼 Internships  |  👨‍💻 Junior Developer Roles  |  🌐 Freelance Projects**
 
-📧 **[abusufiyanshahid24@gmail.com](mailto:abusufiyanshahid24@gmail.com)**  |  🌍 **Karachi, Pakistan**
+📧 **[sufiyan13112012@gmail.com](mailto:sufiyan13112012@gmail.com)**  |  🌍 **Karachi, Pakistan**
 
 <br/>
 
