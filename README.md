@@ -13,6 +13,7 @@
 [![Profile Views](https://komarev.com/ghpvc/?username=Sufiyan987\&label=Profile%20Views\&color=0e75b6\&style=for-the-badge\&logo=eye)](https://github.com/Sufiyan987) 
 [![GitHub followers](https://img.shields.io/github/followers/Sufiyan987?label=Followers\&style=for-the-badge\&color=1DA1F2\&logo=github)](https://github.com/Sufiyan987?tab=followers) 
 [![GitHub Repos](https://img.shields.io/badge/Repos-50%2B-brightgreen?style=for-the-badge&logo=github)](https://github.com/Sufiyan987?tab=repositories)
+
 [![Open to Work](https://img.shields.io/badge/Open%20to%20Work-%E2%9C%85-success?style=for-the-badge\&logo=handshake\&logoColor=white)](mailto:sufiyan13112012@gmail.com)
 
 </div>
