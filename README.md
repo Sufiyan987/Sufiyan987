@@ -24,8 +24,7 @@
 <img align="right" alt="Coding GIF" width="360" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" />
 
 * 🔭 Currently building **modern web & app development projects**
-* 🌱 Studying at **Saylani Mass I.T. Training (SMIT)** + **Aptech Learning Pakistan**
-* 🏆 **Cisco Certified Frontend Developer** *(Cisco Networking Academy)*
+* 🌱 Studying at **Saylani Mass I.T. Training (SMIT)**
 * 💡 Focused on **responsive**, **SEO-friendly**, and **high-performance** UIs
 * 💬 Ask me about **HTML · CSS · JavaScript · Bootstrap · DOM Manipulation · PHP · MySQL**
 * 📫 Reach me: **[sufiyan13112012@gmail.com](mailto:sufiyan13112012@gmail.com)**
@@ -46,8 +45,7 @@
 
 ### 🗄️ Backend & Database
 
-![JS](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge\&logo=php\&logoColor=white)
-![Node.Js](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge\&logo=mysql\&logoColor=white)
+![Node.Js](https://img.shields.io/badge/Node.js-4479A1?style=for-the-badge\&logo=mysql\&logoColor=white)
 
 ### 🎨 Design & DevTools
 
