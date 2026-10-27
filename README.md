@@ -1,12 +1,12 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=220&section=header&text=Sufiyan%20Memon&fontSize=65&fontColor=ffffff&animation=fadeIn&fontAlignY=38" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=220&section=header&text=Sufiyan%20Sohail&fontSize=65&fontColor=ffffff&animation=fadeIn&fontAlignY=38" />
 
 </div>
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code\&pause=1000\&width=435\&lines=%F0%9F%91%8B++Hello+World!+I'm+Sufiyan+Memon;%E2%9A%A1+HTML+%7C+CSS+%7C+JS+%7C+Bootstrap;%F0%9F%9A%80+Always+Learning%2C+Always+Growing!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code\&pause=1000\&width=435\&lines=%F0%9F%91%8B++Hello+World!+I'm+Sufiyan+Sohail;%E2%9A%A1+Frontend+%7C+Backend+%7C+React;%F0%9F%9A%80+Always+Learning%2C+Always+Growing!)](https://git.io/typing-svg)
 
 <br/>
 
@@ -158,7 +158,7 @@
 
 > *"I don't just write code — I craft experiences, one pixel at a time."*
 >
-> — **Sufiyan Memon** 🚀
+> — **Sufiyan Sohail** 🚀
 
 <br/>
 
