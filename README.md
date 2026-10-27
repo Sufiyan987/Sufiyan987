@@ -68,7 +68,7 @@
 ## 📊 GitHub Statistics
 
 <div align="center">
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=Sufiyan987&theme=tokyonight&hide_border=true&stroke=38BDF8&ring=38BDF8&fire=FF6B6B&currStreakLabel=38BDF8" alt="GitHub Streak" />
+  <img width="48%" src="https://img.shields.io/badge/Total%20Contributions-165-38BDF8?style=for-the-badge&logo=github" alt="Total GitHub Contributions" />
 </div>
 
 ---
