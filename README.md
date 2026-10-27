@@ -111,9 +111,9 @@
 
 ## 📈 GitHub Contribution Graph
 
-<div align="center">
+ <div align="center">
 
-[![Sufiyan's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Sufiyan987\&theme=tokyo-night\&hide_border=true\&area=true\&area_color=38BDF8\&color=38BDF8\&line=38BDF8\&point=ffffff\&custom_title=Sufiyan%27s%20Contribution%20Activity)](https://github.com/Sufiyan987)
+<img width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=Sufiyan987&theme=tokyonight&hide_border=true&stroke=38BDF8&ring=38BDF8&fire=FF6B6B&currStreakLabel=38BDF8" alt="GitHub Contributions and Streak" />
 
 </div>
 
